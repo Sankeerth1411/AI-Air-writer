@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/b11ab878-6196-45bc-929d-7f29e
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+here is the uploaded app link : https://ai-air-writer--sankeerthrajoli.replit.app
