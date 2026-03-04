@@ -1,0 +1,5 @@
+{
+  "name": "AI Air Writer",
+  "description": "Write in the air using your webcam and solve math equations with Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
